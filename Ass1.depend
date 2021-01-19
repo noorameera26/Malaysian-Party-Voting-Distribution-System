@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1520558676 source:c:\users\user\documents\semester finale\cpm213 programming methodology and data structures\assignment 1 2018\ass1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iomanip>
+	"generalInfor.h"
+	"detailInfor.h"
+	"birthDate.h"
+
+1520562474 source:c:\users\user\documents\semester finale\cpm213 programming methodology and data structures\assignment 1 2018\ass1\without_main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iomanip>
+	"generalInfor.h"
+	"detailInfor.h"
+	"birthDate.h"
+
+1520497143 c:\users\user\documents\semester finale\cpm213 programming methodology and data structures\assignment 1 2018\ass1\generalinfor.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iomanip>
+	"birthDate.h"
+
+1520497143 source:c:\users\user\documents\semester finale\cpm213 programming methodology and data structures\assignment 1 2018\ass1\detailinfor.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iomanip>
+	"generalInfor.h"
+	"detailInfor.h"
+
+1520497167 source:c:\users\user\documents\semester finale\cpm213 programming methodology and data structures\assignment 1 2018\ass1\generalinfor.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iomanip>
+	"generalInfor.h"
+	"detailInfor.h"
+	"birthDate.h"
+
+1520497143 c:\users\user\documents\semester finale\cpm213 programming methodology and data structures\assignment 1 2018\ass1\detailinfor.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iomanip>
+
+1520412856 c:\users\user\documents\semester finale\cpm213 programming methodology and data structures\assignment 1 2018\ass1\birthdate.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iomanip>
+
+1520414642 source:c:\users\user\documents\semester finale\cpm213 programming methodology and data structures\assignment 1 2018\ass1\birthdate.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iomanip>
+	"generalInfor.h"
+	"detailInfor.h"
+	"birthDate.h"
+
+1520414644 source:c:\users\ameera anas\downloads\cpm213\ass1\birthdate.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iomanip>
+	"generalInfor.h"
+	"detailInfor.h"
+	"birthDate.h"
+
+1520497144 c:\users\ameera anas\downloads\cpm213\ass1\generalinfor.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iomanip>
+	"birthDate.h"
+
+1520412858 c:\users\ameera anas\downloads\cpm213\ass1\birthdate.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iomanip>
+
+1520497144 c:\users\ameera anas\downloads\cpm213\ass1\detailinfor.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iomanip>
+
+1520497144 source:c:\users\ameera anas\downloads\cpm213\ass1\detailinfor.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iomanip>
+	"generalInfor.h"
+	"detailInfor.h"
+
+1520497168 source:c:\users\ameera anas\downloads\cpm213\ass1\generalinfor.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iomanip>
+	"generalInfor.h"
+	"detailInfor.h"
+	"birthDate.h"
+
+1520563702 source:c:\users\ameera anas\downloads\cpm213\ass1\without_main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iomanip>
+	"generalInfor.h"
+	"detailInfor.h"
+	"birthDate.h"
+
+1520558678 source:c:\users\ameera anas\downloads\cpm213\ass1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iomanip>
+	"generalInfor.h"
+	"detailInfor.h"
+	"birthDate.h"
+
